@@ -5,7 +5,6 @@ Project Overview
 🛡️ Project Title: Fake Job Offer Analyzer (OfferShield)
 🔍 Project Type: Cybersecurity Awareness Tool – Web-Based (Frontend Only)
 👨‍💻 Built By: Nikul Suthar
-🔗 GitHub Repo: [Add link if hosted]
 🌐 Demo Link: fake-job-offer-analyzer.netlify.app
 ________________________________________
 🔹 1. Introduction
