@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fake Job Offer Analyzer</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>🕵️‍♂️ Fake Job Offer Analyzer</h1>
+  </header>
+  <main>
+    <section>
+      <h2>📩 Paste Your Job Email or Offer Letter Content</h2>
+      <textarea id="emailText" placeholder="Paste job offer email text here..."></textarea>
+      <div class="actions">
+        <button onclick="analyzeText()">Analyze</button>
+        <button onclick="downloadPDF()">Download Report (PDF)</button>
+        <button onclick="toggleTheme()">🌙 Toggle Dark/Light</button>
+      </div>
+    </section>
+    <section id="result" style="display:none;">
+      <h2>🧠 Analysis Result</h2>
+      <p id="output"></p>
+    </section>
+  </main>
+  <footer>
+    <p>Created by Nikul Suthar | Awareness Project | Advanced Version</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
