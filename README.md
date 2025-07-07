@@ -55,21 +55,9 @@ The analyzer uses pattern-matching logic to detect:
 •	Payment triggers (Bank account numbers, UPI IDs)
 •	Urgency-based pressure (within 24 hours, immediate joining)
 It doesn’t just highlight issues — it also educates the user by showing why a certain phrase or request is dangerous.
+
 ________________________________________
-🔹 8. Screenshots / UI Preview
-(Here you can insert 2–3 screenshots of your tool. Example layout:)
-•	🖥️ Paste Email → 🔍 Analyze
-•	🚩 Result with color-coded red flags
-•	💡 Tips or educational pop-up
-________________________________________
-Impact, Learning, and Future Scope
-________________________________________
-🔹 9. Real Impact
-More than 20,000+ job scam reports were filed in India alone in the last 2 years.
-This tool can save real people from being scammed.
-This tool isn’t just a mini-project — it’s a real-world digital safety solution that can help job seekers make safer career decisions.
-________________________________________
-🔹 10. What I Learned
+🔹 8. What I Learned
 Skill / Topic	Experience Gained
 🧠 Scam Logic	How real scammers manipulate victims
 🧰 Frontend Dev	Responsive UI, JS DOM, dynamic UI
@@ -77,13 +65,6 @@ Skill / Topic	Experience Gained
 🎨 UI/UX	Making things both useful and usable
 📢 Social Impact	Building something beyond just code
 ________________________________________
-🔹 11. Future Improvements
-•	🧠 Add AI/NLP to detect tone/emotion
-•	📁 Upload & scan PDF offer letters
-•	🖥️ Chrome extension for quick analysis
-•	📊 Dashboard to track types of scam patterns
-•	🌍 Multi-language support (Hindi, Gujarati, etc.)
-________________________________________
-🔹 12. Final Thoughts
+🔹 9. Final Thoughts
 Cybersecurity isn’t always about hacking firewalls — sometimes, it’s about protecting common people from small, invisible digital threats.
 The Fake Job Offer Analyzer is a small but powerful step in that direction. I hope it not only helps job seekers but also spreads awareness in colleges and communities.
